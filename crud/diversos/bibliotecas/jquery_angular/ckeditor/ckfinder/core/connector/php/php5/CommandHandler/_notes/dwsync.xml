@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CommandHandlerBase.php" server="200.195.178.52" local="131708030283395746" remote="131690690400000000" Dst="1" />
+<file name="CopyFiles.php" server="200.195.178.52" local="131708030285341263" remote="131690690400000000" Dst="1" />
+<file name="CreateFolder.php" server="200.195.178.52" local="131708030286852271" remote="131690690400000000" Dst="1" />
+<file name="DeleteFiles.php" server="200.195.178.52" local="131708030287436951" remote="131690690400000000" Dst="1" />
+<file name="DeleteFolder.php" server="200.195.178.52" local="131708030288534231" remote="131690690400000000" Dst="1" />
+<file name="FileUpload.php" server="200.195.178.52" local="131708030289730413" remote="131690690400000000" Dst="1" />
+<file name="DownloadFile.php" server="200.195.178.52" local="131708030290232027" remote="131690690400000000" Dst="1" />
+<file name="GetFiles.php" server="200.195.178.52" local="131708030291314624" remote="131690690400000000" Dst="1" />
+<file name="GetFolders.php" server="200.195.178.52" local="131708030292307539" remote="131690690400000000" Dst="1" />
+<file name="Init.php" server="200.195.178.52" local="131708030292828945" remote="131690690400000000" Dst="1" />
+<file name="LoadCookies.php" server="200.195.178.52" local="131708030294200714" remote="131690690400000000" Dst="1" />
+<file name="MoveFiles.php" server="200.195.178.52" local="131708030294872771" remote="131690690400000000" Dst="1" />
+<file name="QuickUpload.php" server="200.195.178.52" local="131708030295925573" remote="131690690400000000" Dst="1" />
+<file name="RenameFile.php" server="200.195.178.52" local="131708030297038256" remote="131690690400000000" Dst="1" />
+<file name="RenameFolder.php" server="200.195.178.52" local="131708030297459695" remote="131690690400000000" Dst="1" />
+<file name="Thumbnail.php" server="200.195.178.52" local="131708030299164177" remote="131690690400000000" Dst="1" />
+<file name="XmlCommandHandlerBase.php" server="200.195.178.52" local="131708030300577935" remote="131690690400000000" Dst="1" />
+</dwsync>

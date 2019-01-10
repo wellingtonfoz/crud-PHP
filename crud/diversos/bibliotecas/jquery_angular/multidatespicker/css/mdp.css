@@ -1,0 +1,107 @@
+@import url("../../jquery-ui/css/ui-lightness/jquery-ui-1.10.2.custom.min.css");
+
+/* just some styling */
+
+#pre-select-dates h1 {
+	text-align: center;
+	margin: 1.5em;
+}
+
+#pre-select-dates h2 {
+	border-top: 1px dotted #AAA;
+	padding-top: 1em;
+	margin-top: 1em;
+}
+
+#pre-select-dates h4 {margin-bottom: 0;}
+
+#pre-select-dates p {margin-top: .3em;}
+
+#pre-select-dates code, pre.code {
+	font: 11px/13px monospace;
+	background-color: #FFC;
+	padding: 2px;
+	border: 1px dotted grey;
+}
+
+#pre-select-dates .clear {clear: both;}
+
+#pre-select-dates a {text-decoration: none; color: #C9CACB;}
+#pre-select-dates a:hover {text-decoration: none;}
+
+#pre-select-dates #share {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	text-align: right;
+}
+
+#pre-select-dates #demos-list {padding: 0;}
+
+#pre-select-dates #flairs {text-align: center;}
+#pre-select-dates #flairs ul {list-style: none; padding: 0;}
+#pre-select-dates #flairs li {display: inline;}
+
+#pre-select-dates .demo {
+	vertical-align: top;
+	display: inline-block;
+	margin: 1em 1%;
+	width: 44%;
+	background-color: rgba(0, 0, 0, .1);
+	padding: 0 2%;
+	border-radius: 10px;
+}
+
+#pre-select-dates .demo.full-row {
+	width: 95%;
+}
+
+#pre-select-dates .demo ul, .demo ol {list-style-position: inside;}
+#pre-select-dates .demo .box {
+	float: left;
+	margin: 0 1em 1em 0;
+}
+
+#pre-select-dates .example {
+	color: #006400;
+}
+
+#pre-select-dates .important-note {
+	font-weight: bold;
+	color: #B22222;
+}
+
+#pre-select-dates .reference-to {
+	font-size: large;
+	font-weight: bold;
+}
+
+#pre-select-dates .code-box {clear:both;}
+#pre-select-dates .code {
+	padding: 5px;
+	color: #333;
+	background-color: white;
+	font: small monospace;
+}
+ .ui-datepicker-unselectable > .ui-state-default, .ui-state-disabled > .ui-state-default{
+ 	background: none !important;
+ 	background-image: none !important;
+ } 
+ 
+
+/* begin: jQuery UI Datepicker moving pixels fix */
+#pre-select-dates table.ui-datepicker-calendar {border-collapse: separate;}
+#pre-select-dates .ui-datepicker-calendar td {border: 1px solid transparent;}
+/* end: jQuery UI Datepicker moving pixels fix */
+
+/* begin: jQuery UI Datepicker emphasis on selected dates */
+#pre-select-dates .ui-datepicker .ui-datepicker-calendar .ui-state-highlight a {
+	background: orange none;
+	color: white;
+}
+/* end: jQuery UI Datepicker emphasis on selected dates */
+
+
+/* begin: jQuery UI Datepicker hide datepicker helper */
+#pre-select-dates #ui-datepicker-div {display:none;}
+/* end: jQuery UI Datepicker hide datepicker helper */

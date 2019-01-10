@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ApplyConvolution.class.php" server="200.195.178.52" local="131708031543649186" remote="131690690400000000" Dst="1" />
+<file name="ApplyFilter.class.php" server="200.195.178.52" local="131708031545665207" remote="131690690400000000" Dst="1" />
+<file name="ApplyMask.class.php" server="200.195.178.52" local="131708031546333619" remote="131690690400000000" Dst="1" />
+<file name="AsGrayscale.class.php" server="200.195.178.52" local="131708031547066171" remote="131690690400000000" Dst="1" />
+<file name="AutoCrop.class.php" server="200.195.178.52" local="131708031548925650" remote="131690690400000000" Dst="1" />
+<file name="CopyChannelsPalette.class.php" server="200.195.178.52" local="131708031549688268" remote="131690690400000000" Dst="1" />
+<file name="CopyChannelsTrueColor.class.php" server="200.195.178.52" local="131708031550335829" remote="131690690400000000" Dst="1" />
+<file name="CorrectGamma.class.php" server="200.195.178.52" local="131708031551605794" remote="131690690400000000" Dst="1" />
+<file name="Crop.class.php" server="200.195.178.52" local="131708031552108235" remote="131690690400000000" Dst="1" />
+<file name="Flip.class.php" server="200.195.178.52" local="131708031553533690" remote="131690690400000000" Dst="1" />
+<file name="GetMask.class.php" server="200.195.178.52" local="131708031554530335" remote="131690690400000000" Dst="1" />
+<file name="Merge.class.php" server="200.195.178.52" local="131708031555088273" remote="131690690400000000" Dst="1" />
+<file name="Mirror.class.php" server="200.195.178.52" local="131708031557009169" remote="131690690400000000" Dst="1" />
+<file name="Resize.class.php" server="200.195.178.52" local="131708031557938383" remote="131690690400000000" Dst="1" />
+<file name="Rotate.class.php" server="200.195.178.52" local="131708031558473162" remote="131690690400000000" Dst="1" />
+<file name="Unsharp.class.php" server="200.195.178.52" local="131708031560079577" remote="131690690400000000" Dst="1" />
+</dwsync>
